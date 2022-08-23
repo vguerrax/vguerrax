@@ -1,13 +1,6 @@
-### Hi there 👋
+<img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 
-<!--
-**victorguerrabh/victorguerrabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+### Welcome to my github
 
 - 🔭 I’m currently working on [Zup Innovation](https://github.com/ZupIT)
 - 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=typescript&)
@@ -17,7 +10,7 @@ Here are some ideas to get you started:
 #### 👨‍💻 Programming languages
 ![Shell](https://img.shields.io/badge/Shell%20-%23525252.svg?style=flat&logo=gnu-bash&)
 ![Java](https://img.shields.io/badge/-Java%20-%23525252.svg?style=flat&logo=Java&logoColor=white&)
-![C++](https://img.shields.io/badge/-C++%20-%23525252.svg?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-C%23%20-%23525252.svg?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-%23525252.svg?style=flat&logo=JavaScript&logoColor=yellow&)
 ![TypeScript](https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=TypeScript&logoColor=blue&)
 ![Kotlin](https://img.shields.io/badge/-Kotlin%20-%23525252.svg?style=flat&logo=kotlin&)
@@ -68,8 +61,31 @@ Here are some ideas to get you started:
 
 ### Analytics ⚙️
 <p align="left">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victorguerrabh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorguerrabh" />
+  <img height="180em" src="https://raw.githubusercontent.com/victorguerrabh/victorguerrabh/main/profile-summary-card-output/default/3-stats.svg">
 </p>
+
+<p align="left">
+  <a href="https://github.com/victorguerrabh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=victorguerrabh&count_private=true&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguerrabh&layout=compact&langs_count=8&hide=HCL"/>
+  </a>
+</p>
+
+[![](https://raw.githubusercontent.com/victorguerrabh/victorguerrabh/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!--
+<h2 align="center">👨‍💻 Recommended Repositories </h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/rafaelbercam/boilerplates" title="Boilerplates"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=Boilerplates&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/rafaelbercam/api-tests-typescript" title="API Tests with TypeScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelbercam&repo=api-tests-typescript&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/>
+<br></br><br></br><br></br>
+-->
 
 ### My networks, Let's connect? 🤝
 <p align="left">
