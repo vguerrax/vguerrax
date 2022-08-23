@@ -60,19 +60,20 @@
 ![Windows](https://img.shields.io/badge/-Windows%20-%23525252.svg?style=flat&logo=Windows&)
 
 ### Analytics ⚙️
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorguerrabh" />
-  <img height="180em" src="https://raw.githubusercontent.com/victorguerrabh/victorguerrabh/main/profile-summary-card-output/default/3-stats.svg">
-</p>
 
 <p align="left">
   <a href="https://github.com/victorguerrabh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=victorguerrabh&count_private=true&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguerrabh&layout=compact&langs_count=8&hide=HCL"/>
+    <img height="200em" src="https://raw.githubusercontent.com/victorguerrabh/victorguerrabh/main/profile-summary-card-output/default/0-profile-details.svg"/>
   </a>
 </p>
 
-[![](https://raw.githubusercontent.com/victorguerrabh/victorguerrabh/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="left">
+  <img height="180em" src="https://raw.githubusercontent.com/victorguerrabh/victorguerrabh/main/profile-summary-card-output/default/3-stats.svg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguerrabh&layout=compact&langs_count=8&hide=HCL"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorguerrabh" />
+</p>
+
+
 
 <!--
 <h2 align="center">👨‍💻 Recommended Repositories </h2>
