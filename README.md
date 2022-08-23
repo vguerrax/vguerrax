@@ -66,7 +66,12 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux%20-%23525252.svg?style=flat&logo=linux&logoColor=white&)
 ![Windows](https://img.shields.io/badge/-Windows%20-%23525252.svg?style=flat&logo=Windows&)
 
-My networks, Let's connect? 🤝
+### Analytics ⚙️
+<p align="left">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victorguerrabh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</p>
+
+### My networks, Let's connect? 🤝
 <p align="left">
 <a href="https://www.linkedin.com/in/vguerrax/"><img src="https://img.shields.io/badge/-vguerrax-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/vguerrax"><img src="https://img.shields.io/badge/-@vguerrax-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
