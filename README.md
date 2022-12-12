@@ -69,7 +69,7 @@
 
 <p align="left">
   <img height="180em" src="https://raw.githubusercontent.com/vguerrax/vguerrax/main/profile-summary-card-output/default/3-stats.svg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vguerrax&layout=compact&langs_count=8&hide=HCL"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vguerrax&layout=compact&langs_count=10"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vguerrax" />
 </p>
 
