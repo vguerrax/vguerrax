@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Zup Innovation](https://github.com/ZupIT)
 - 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=typescript&)
 - 👯 I’m looking to collaborate on Automated Tests Projects
-- 💬 Ask me about Automation Tests
+- 💬 Ask me about Automated Tests
 
 #### 👨‍💻 Programming languages
 ![Shell](https://img.shields.io/badge/Shell%20-%23525252.svg?style=flat&logo=gnu-bash&)
