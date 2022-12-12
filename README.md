@@ -63,7 +63,7 @@
 
 <p align="left">
   <a href="https://github.com/vguerrax">
-    <img height="200em" src="https://raw.githubusercontent.com/victorguerrabh/vguerrax/main/profile-summary-card-output/default/0-profile-details.svg"/>
+    <img height="200em" src="https://raw.githubusercontent.com/vguerrax/vguerrax/main/profile-summary-card-output/default/0-profile-details.svg"/>
   </a>
 </p>
 
