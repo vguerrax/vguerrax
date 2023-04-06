@@ -3,18 +3,16 @@
 ### Welcome to my github
 
 - 🔭 I’m currently working on [Zup Innovation](https://github.com/ZupIT)
-- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=typescript&)
+- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/-Kotlin%20-%23525252.svg?style=flat&logo=kotlin)
 - 👯 I’m looking to collaborate on Automated Tests Projects
 - 💬 Ask me about Automated Tests
 
 #### 👨‍💻 Programming languages
-![Shell](https://img.shields.io/badge/Shell%20-%23525252.svg?style=flat&logo=gnu-bash&)
 ![Java](https://img.shields.io/badge/-Java%20-%23525252.svg?style=flat&logo=Java&logoColor=white&)
 ![C#](https://img.shields.io/badge/-C%23%20-%23525252.svg?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-%23525252.svg?style=flat&logo=JavaScript&logoColor=yellow&)
 ![TypeScript](https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=TypeScript&logoColor=blue&)
 ![Kotlin](https://img.shields.io/badge/-Kotlin%20-%23525252.svg?style=flat&logo=kotlin&)
-![MarkDown](https://img.shields.io/badge/-Markdown%20-%23525252.svg?style=flat&logo=markdown&)
 ![Nodejs](https://img.shields.io/badge/-Nodejs%20-%23525252.svg?style=flat&logo=node.js&)
 ![Python](https://img.shields.io/badge/-Python%20-%23525252.svg?style=flat&logo=Python&)
 ![SQL](https://img.shields.io/badge/SQL%20-%23525252.svg?style=flat&logo=amazon-dynamodb&)
@@ -26,7 +24,6 @@
 ![Chai](https://img.shields.io/badge/-Chai%20-%23525252.svg?style=flat&logo=Chai&logoColor=red&)
 ![Mocha](https://img.shields.io/badge/-Mocha%20-%23525252.svg?style=flat&logo=Mocha&)
 ![Jest](https://img.shields.io/badge/-Jest%20-%23525252.svg?style=flat&logo=Jest&logoColor=pink&)
-![Babel](https://img.shields.io/badge/-Babel%20-%23525252.svg?style=flat&logo=Babel&)
 ![JUnit](https://img.shields.io/badge/-JUnit%20-%23525252.svg?style=flat&logo=cachet&)
 ![Docker](https://img.shields.io/badge/-Docker%20-%23525252.svg?style=flat&logo=docker&)
 ![Maven](https://img.shields.io/badge/-Maven%20-%23525252.svg?style=flat&logo=apache-maven&logoColor=ffb9b4&)
@@ -44,14 +41,12 @@
 ![Postman](https://img.shields.io/badge/-Postman%20-%23525252.svg?style=flat&logo=postman&)
 ![Cypress](https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&)
 ![Appium](https://img.shields.io/badge/-Appium%20-%23525252.svg?style=flat&logo=selenium&logoColor=purple&)
-![WebdriverIO](https://img.shields.io/badge/-WebdriverIO%20-%23525252.svg?style=flat&logo=WebdriverIO)
 
 #### 🗄️ Databases and cloud hosting
 
 ![MySQL](https://img.shields.io/badge/-MySQL%20-%23525252.svg?style=flat&logo=mysql&logoColor=white&)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL%20-%23525252.svg?style=flat&logo=postgresql&)
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%23525252.svg?style=flat&logo=MongoDB&)
-![Elastic Search](https://img.shields.io/badge/-ElasticSearch%20-%23525252.svg?style=flat-square&logo=elasticsearch)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean%20-%23525252.svg??style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23525252.svg?style=flat-square&logo=amazon-aws&logoColor=orange)
 
