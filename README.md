@@ -1,6 +1,6 @@
 # Victor Pereira Lopes Guerra
 
-**Engenheiro de Software · QA · Criador de Produtos Digitais**
+**Engenheiro de Software · QA/QE · Criador de Produtos Digitais**
 
 Bacharel em Sistemas de Informação com mais de 12 anos em tecnologia.  
 Atuo em qualidade de software, automação de testes e desenvolvimento de aplicações web —  
